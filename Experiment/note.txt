@@ -1,0 +1,14 @@
+this is onlie  surver uploaded on globely if u want to run this file in your systen 
+you  have to login the https://ngrok.com/ this web sit and past it int the code so that the program will excutes in your system as globally as well as you have to sare your own programm on the global surver to other
+
+
+https://ngrok.com/ 
+sin up this account and past this id int the code section no or cell no 26 
+like 
+
+!ngrok authtoken 2CUIKzhhbsoHHk6GUeiens9G5T9_7weiPkL9r6htxRL9UMwZHs  
+
+put you own id link 
+
+and enjoy it
+

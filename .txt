@@ -1,0 +1,17 @@
+This model based on regression 
+
+# On the basis of inpute as a year of expriance it pridects the amount of salary he/she deserved 
+
+# This module gives a 96% of accuracy  while when we are testion and inplement the restul on the dataset
+
+@To run this file firstelly you have bound whit google account 
+
+@run in google colabs
+
+@all link are activat you should  be run all and slect the file where you saved it file(salary_Data.csv)
+
+# In the data set we have many attributes so , that we make it inputs as well as put put which is dependent varibal and independent varibal
+
+
+
+
